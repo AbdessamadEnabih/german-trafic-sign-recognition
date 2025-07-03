@@ -30,7 +30,7 @@ This project implements a deep learning pipeline for recognizing German traffic 
 1. **Install dependencies**
 
    ```sh
-   pip install kaggle
+   pip install -r requirementsrequirements.txt
    ```
 
 2. **Kaggle API Key**
