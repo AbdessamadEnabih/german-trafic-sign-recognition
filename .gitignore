@@ -2,3 +2,5 @@ data/
 kaggle.json
 __pycache__/
 *.pyc
+.venv/
+
