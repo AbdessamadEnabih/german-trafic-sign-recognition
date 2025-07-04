@@ -3,4 +3,4 @@ kaggle.json
 __pycache__/
 *.pyc
 .venv/
-
+.env
